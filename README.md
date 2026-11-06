@@ -68,7 +68,7 @@ This repository is still in preparation, but it will shortly contain at least th
 
 And possibly, eventually:
 
-* The presentation _An Introduction the Chimera Architecture_, an MS PowerPoint (or PDF) deck of ~1700 slides.
+* The presentation _An Introduction to the Chimera Architecture_, an MS PowerPoint (or PDF) deck of ~1700 slides.
 * Chimera's compiler and simulator, header files, and sample firmware.
 
 Questions, inquiries, and comments are always welcome!
